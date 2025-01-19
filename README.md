@@ -12,7 +12,7 @@ Compared Node2Vec algorithm to a Graph Convolutional Network for predicting link
 
 # REPORT
 The following report summarizes the findings of the project:  
-[Project Report](https://docs.google.com/document/d/1KuNPpCiD1Mef422BbeuSLSiFLOpfyEknoDPRSFULii0/edit?usp=sharing) 
+[Project Report](https://docs.google.com/document/d/1rIRoEEl1G-BL40XUnK8858WiXmuYktN66r7eo4gSsYY/edit?usp=sharing) 
 
 # DATASET
 The Stanford high-energy physics citation network was used for this project. You can access the dataset below:  
